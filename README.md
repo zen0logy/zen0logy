@@ -1,16 +1,31 @@
-## Hi there 👋
+# About Me
 
-<!--
-**zen0logy/zen0logy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
+I'm [zen0logy], a passionate [developer] who loves building things with code. 
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tech Stack
+- **Languages:** Java, Ruby, JavaScript
+- **Frameworks:** Spring, Ruby on Rails, Node.js
+- **Databases:** PostgreSQL
+- **DevOps:** Docker, Kubernetes, AWS
+- **Other:** Git, CI/CD, Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔥 Projects & Contributions
+Check out my repositories to see what I’ve been working on!
+
+## 📚 Currently Learning
+- Rust & WebAssembly
+- AI & Machine Learning
+
+## 📬 How to Reach Me
+- Email: bulletice2@gmail.com
+<!-- 
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 -->
+
+## ✨ Fun Facts
+- I love open-source and contribute whenever possible.
+- I’m always up for a challenge, whether it’s coding or solving puzzles.
+
+Thanks for stopping by! Feel free to connect! 🚀
