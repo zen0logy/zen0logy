@@ -1,7 +1,7 @@
 # About Me
 
 ## Hi there! 👋
-I'm [zen0logy](https://github.com/zen0logy), a passionate [developer] who loves building things with code. 
+I'm [Zen](https://github.com/zen0logy), a passionate [developer] who loves building things with code. 
 
 ## 🚀 Skills & Tech Stack
 - **Languages:** Java, Ruby, JavaScript
