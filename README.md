@@ -25,7 +25,7 @@ Git • CI/CD • Automated Testing
 
 ## 🛠️ Projects & Contributions
 
-Explore my [GitHub repositories](https://github.com/zen0logy) to see what I’m working on—from production-ready applications to experimental side projects. I regularly contribute to open-source and enjoy collaborating with other developers.
+Explore my [GitHub repositories](https://github.com/zen0logy?tab=repositories) to see what I’m working on—from production-ready applications to experimental side projects. I regularly contribute to open-source and enjoy collaborating with other developers.
 
 ---
 
