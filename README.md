@@ -1,31 +1,55 @@
-# About Me
+# 👋 Hi, I'm Zen
 
-## Hi there! 👋
-I'm [Zen](https://github.com/zen0logy), a passionate [developer] who loves building things with code. 
+A passionate developer who loves turning ideas into working software. Whether it's building scalable backend systems, experimenting with new technologies, or solving complex problems, I enjoy every part of the development journey.
 
-## 🚀 Skills & Tech Stack
-- **Languages:** Java, Ruby, JavaScript
-- **Frameworks:** Spring, Ruby on Rails, Node.js
-- **Databases:** PostgreSQL
-- **DevOps:** Docker, Kubernetes, AWS
-- **Other:** Git, CI/CD, Testing
+---
 
-## 🔥 Projects & Contributions
-Check out my repositories to see what I’ve been working on!
+## 🚀 Tech Stack & Tools
 
-## 📚 Currently Learning
-- Rust & WebAssembly
-- AI & Machine Learning
+**Languages:**  
+Java • Ruby • JavaScript  
 
-## 📬 How to Reach Me
-- Email: bulletice2@gmail.com
-<!-- 
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
--->
+**Frameworks & Libraries:**  
+Spring • Ruby on Rails • Node.js  
 
-## ✨ Fun Facts
-- I love open-source and contribute whenever possible.
-- I’m always up for a challenge, whether it’s coding or solving puzzles.
+**Databases:**  
+MySQL  
 
-Thanks for stopping by! Feel free to connect! 🚀
+**DevOps & Cloud:**  
+Docker • Kubernetes • AWS  
+
+**Tools & Practices:**  
+Git • CI/CD • Automated Testing
+
+---
+
+## 🛠️ Projects & Contributions
+
+Explore my [GitHub repositories](https://github.com/zen0logy) to see what I’m working on—from production-ready applications to experimental side projects. I regularly contribute to open-source and enjoy collaborating with other developers.
+
+---
+
+## 📚 What I’m Learning
+
+- **Rust & WebAssembly** – for low-level performance and modern web tooling  
+- **AI & Machine Learning** – exploring intelligent systems and data-driven apps
+
+---
+
+## 📫 Let’s Connect
+
+- **Email:** bulletice2@gmail.com  
+<!-- - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
+
+---
+
+## ✨ A Few Fun Facts
+
+- I'm a huge fan of open-source and love contributing whenever I can.  
+- Always up for a good puzzle or algorithmic challenge.  
+- I believe in learning by building—and breaking things along the way.
+
+---
+
+Thanks for stopping by. Let’s build something great!
