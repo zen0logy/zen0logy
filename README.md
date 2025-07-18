@@ -54,7 +54,6 @@ Explore my [GitHub repositories](https://github.com/zen0logy) to see what I’m 
 
 Thanks for stopping by. Let’s build something great!
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph (by anuraghazra)
 
-![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=zen0logy&theme=dracula)
-
+[![Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zen0logy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
