@@ -1,60 +1,31 @@
 <div align="center">
 
-  # 🚀 Project Name
+# 👋 Hi, I'm zen0logy
 
-  **A concise, punchy one-line tagline explaining what this project does.**
+**Software Developer | Open Source Contributor**
 
-  [![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?branch=main&style=for-the-badge)](https://github.com/username/repo/actions)
-  [![License](https://img.shields.io/github/license/username/repo?style=for-the-badge)](LICENSE)
-  [![Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)](https://github.com/username/repo/stargazers)
-  [![Version](https://img.shields.io/github/v/release/username/repo?style=for-the-badge)](https://github.com/username/repo/releases)
-
-  [Demo](https://your-demo-link.com) · [Report Bug](https://github.com/username/repo/issues) · [Request Feature](https://github.com/username/repo/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/zen0logy?style=for-the-badge&color=blue)](https://github.com/zen0logy)
+[![Followers](https://img.shields.io/github/followers/zen0logy?style=for-the-badge&color=green)](https://github.com/zen0logy)
 
 </div>
 
 ---
 
-## 🎯 Overview
+### 🛠️ Tech Stack
 
-Provide a 2-3 sentence summary of the project. Explain the core problem it solves, who it is built for, and why it stands out.
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=App+Screenshot+or+Demo+GIF" alt="Project Screenshot" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zen0logy&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen0logy&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </div>
-
----
-
-## ✨ Features
-
-* **Feature Title One:** High-performance, scalable solution designed for speed and reliability.
-* **Feature Title Two:** Seamless integration with modern developer workflows and toolchains.
-* **Feature Title Three:** Zero-configuration setup with production-ready defaults out of the box.
-* **Feature Title Four:** Fully typed, modular, and built for maintainability.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Language** | TypeScript / Python / Go |
-| **Framework** | Next.js / FastAPI / React |
-| **Database** | PostgreSQL / Redis |
-| **DevOps** | Docker / GitHub Actions / Vercel |
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-* Node.js `>= 18.0.0`
-* pnpm `>= 8.0.0`
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/username/repo.git](https://github.com/username/repo.git)
-   cd repo
