@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm zen0logy
+# 👋 Hi, I'm Kaan
 
 **Software Developer**
 
-[![GitHub Stars](https://img.shields.io/github/stars/zen0logy?style=for-the-badge&color=blue)](https://github.com/zen0logy)
-[![Followers](https://img.shields.io/github/followers/zen0logy?style=for-the-badge&color=green)](https://github.com/zen0logy)
+[![GitHub Stars](https://img.shields.io/github/stars/kaan1801?style=for-the-badge&color=blue)](https://github.com/zen0logy)
+[![Followers](https://img.shields.io/github/followers/kaan1801?style=for-the-badge&color=green)](https://github.com/zen0logy)
 
 </div>
 
@@ -24,6 +24,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zen0logy&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen0logy&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaan1801&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaan1801&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </div>
